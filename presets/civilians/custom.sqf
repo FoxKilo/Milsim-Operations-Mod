@@ -1,0 +1,92 @@
+/*
+Needed Mods:
+- None
+
+Optional Mods:
+- None
+*/
+
+// Civilian classnames.
+civilians = [
+	"C_Man_casual_1_F_tanoan",
+	"C_Man_casual_2_F_tanoan",
+	"C_Man_casual_3_F_tanoan",
+	"C_Man_casual_4_F_tanoan",
+	"C_Man_casual_5_F_tanoan",
+	"C_Man_casual_6_F_tanoan",
+	"C_man_sport_1_F_tanoan",
+	"C_man_sport_2_F_tanoan",
+	"C_man_sport_3_F_tanoan",
+	"C_Man_Fisherman_01_F",
+	"C_Man_UtilityWorker_01_F",
+	"C_man_hunter_1_F",
+	"C_journalist_F",
+	"C_Journalist_01_War_F",
+	"LOP_CHR_Civ_Assistant",
+	"LOP_CHR_Civ_Citizen_03",
+	"LOP_CHR_Civ_Citizen_04",
+	"LOP_CHR_Civ_Citizen_01",
+	"LOP_CHR_Civ_Citizen_02",
+	"LOP_CHR_Civ_Doctor_01",
+	"LOP_CHR_Civ_Functionary_01",
+	"LOP_CHR_Civ_Functionary_02",
+	"LOP_CHR_Civ_Priest_01",
+	"LOP_CHR_Civ_Profiteer_02",
+	"LOP_CHR_Civ_Profiteer_03",
+	"LOP_CHR_Civ_Profiteer_01",
+	"LOP_CHR_Civ_Profiteer_04",
+	"LOP_CHR_Civ_Random",
+	"LOP_CHR_Civ_Rocker_03",
+	"LOP_CHR_Civ_Rocker_01",
+	"LOP_CHR_Civ_Rocker_04",
+	"LOP_CHR_Civ_Rocker_02",
+	"LOP_CHR_Civ_SchoolTeacher",
+	"LOP_CHR_Civ_Villager_01",
+	"LOP_CHR_Civ_Villager_04",
+	"LOP_CHR_Civ_Villager_03",
+	"LOP_CHR_Civ_Villager_02",
+	"LOP_CHR_Civ_Woodlander_01",
+	"LOP_CHR_Civ_Woodlander_02",
+	"LOP_CHR_Civ_Woodlander_03",
+	"LOP_CHR_Civ_Woodlander_04",
+	"LOP_CHR_Civ_Worker_03",
+	"LOP_CHR_Civ_Worker_04",
+	"LOP_CHR_Civ_Worker_01",
+	"LOP_CHR_Civ_Worker_02"
+];
+
+// Civilian vehicle classnames.
+civilian_vehicles = [
+	"C_Hatchback_01_F",
+	"C_Hatchback_01_sport_F",
+	"C_Offroad_01_F",
+	"C_Offroad_01_repair_F",
+	"C_SUV_01_F",
+	"C_Van_01_fuel_F",
+	"C_Van_01_transport_F",
+	"C_Van_01_box_F",
+	"C_Truck_02_fuel_F",
+	"C_Truck_02_transport_F",
+	"C_Truck_02_covered_F",	
+	"C_Truck_02_box_F",
+	"UK3CB_C_Datsun_Closed",
+	"UK3CB_C_Datsun_Open",
+	"UK3CB_C_Hatchback",
+	"UK3CB_C_Hilux_Closed",
+	"UK3CB_C_Hilux_Open",
+	"UK3CB_C_Ikarus_RED",
+	"UK3CB_C_Ikarus_RED",
+	"UK3CB_C_Ikarus",
+	"UK3CB_C_Ikarus",
+	"C_Offroad_02_unarmed_F",
+	"UK3CB_C_Kamaz_Fuel",
+	"UK3CB_C_Kamaz_Open",
+	"UK3CB_C_Lada",
+	"UK3CB_C_LandRover_Closed",
+	"UK3CB_C_LandRover_Open",
+	"UK3CB_C_Sedan",
+	"UK3CB_C_Skoda",
+	"C_Van_02_medevac_F",
+	"C_Van_02_service_F",
+	"UK3CB_C_Golf"
+];
