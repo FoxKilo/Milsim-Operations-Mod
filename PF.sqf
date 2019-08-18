@@ -1,0 +1,10 @@
+private ["_PF"];
+waitUntil {!isNull player};
+waitUntil {(vehicle player) == player};
+waitUntil {(getPlayerUID player) != ""};
+waitUntil {(getPlayerUID player) != ""};
+_PF = _this select 0;
+_PF SetGroupIDGlobal ["Public Forces"];
+diag_log "[COC Gaming] Set Group to Public Forces";
+_Complete = ["[COC Gaming]", _PF];
+diag_log _Complete; 

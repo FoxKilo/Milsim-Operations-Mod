@@ -1,0 +1,50 @@
+respawn = 3;
+respawndelay = 5;
+respawnButton = 1;
+disabledAI = true;
+
+
+#define SAF_DEF
+    #include "sushi_scripts\core\init.cpp"
+    #include "sushi_scripts\breach\init.cpp"
+#undef SAF_DEF
+
+class CfgFunctions
+{
+    class SAF {
+        #define SAF_FNCS
+            #include "sushi_scripts\core\init.cpp"
+            #include "sushi_scripts\breach\init.cpp"
+        #undef SAF_FNCS
+    };
+};
+
+
+enableDebugConsole = 1;
+allowFunctionsLog = 0;
+
+briefingName = "Spearhead Milsim | Tanoa";
+overviewText = "ts.coc-gaming.com";
+overviewPicture = "res\menu.jpg";
+author = "COC Gaming + [GREUH] Zbug, [GREUH] McKeewa, [KP] Wyqer";
+onLoadName = "Spearhead Milsim | Tanoa";
+onLoadMission = "ts.coc-gaming.com";
+loadScreen = "res\menu.jpg";
+
+joinUnassigned = 1;
+
+#include "GREUH\UI\GREUH_interface.hpp"
+#include "ui\liberation_interface.hpp"
+#include "ui\liberation_notifications.hpp"
+#include "ui\mission_params.hpp"
+
+class CfgDebriefing
+{
+	class End1
+	{
+		title =	$STR_SORRY;
+		subtitle = "";
+		description = $STR_COMMANDER_NOT_AUTHORIZED;
+		pictureBackground = "";
+	};
+};

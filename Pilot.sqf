@@ -1,0 +1,10 @@
+private ["_Pilot"];
+waitUntil {!isNull player};
+waitUntil {(vehicle player) == player};
+waitUntil {(getPlayerUID player) != ""};
+waitUntil {(getPlayerUID player) != ""};
+_Pilot = _this select 0;
+_Pilot SetGroupIDGlobal ["Pilot"];
+diag_log "[COC Gaming] Set Group to Pilot";
+_Complete = ["[COC Gaming]", _Pilot];
+diag_log _Complete; 
