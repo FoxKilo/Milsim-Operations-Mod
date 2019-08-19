@@ -642,6 +642,7 @@ GRLIB_arsenal_items = [
 "rhs_weap_m4a1_blockii_grip_wd",
 "rhs_weap_m4a1_carryhandle_grip3",
 "rhs_weap_m4_grip2",
+"rhs_weap_m4_grip_d",
 "rhs_weap_mk18_grip",
 "rhs_weap_m4a1_blockII_bk",
 "rhs_weap_m4a1_blockii_grip_bk",
