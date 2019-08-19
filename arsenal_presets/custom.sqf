@@ -637,6 +637,7 @@ GRLIB_arsenal_items = [
 "rhsusf_acc_grip2",
 "rhsusf_acc_grip2_tan",
 "rhsusf_acc_grip2_wd",
+"rhsusf_acc_grip2_dd",
 "rhsusf_acc_grip3",
 "rhsusf_acc_grip3_tan",
 "rhs_weap_m4a1_blockii_grip_wd",
