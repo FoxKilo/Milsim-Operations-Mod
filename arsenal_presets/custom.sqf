@@ -23,7 +23,11 @@ diag_log "[COC Gaming] Loading Public Forces Arsenal",
 "rhs_weap_m4a1_blockII_wd",
 "rhs_weap_m4a1_blockII_M203_wd",
 "rhs_weap_m4a1_blockII_KAC_wd",
+"rhs_weap_m4a1_blockII_grip2_KAC_wd",
+"rhs_weap_m4a1_blockII_grip2_KAC_bk",
+"rhs_weap_m4a1_blockII_grip",
 "rhs_weap_m16a4",
+"rhs_weap_m16a4_grip2",
 "rhs_weap_sr25",
 "rhs_weap_sr25_d",
 "rhs_weap_sr25_wd",
@@ -119,7 +123,8 @@ GRLIB_arsenal_magazines = [
 "rhs_m136_hedp_mag",
 "rhs_m136_hp_mag",
 "rhs_fgm148_magazine_AT",
-"rhs_fim92_mag"
+"rhs_fim92_mag",
+"laserbatteries"
 ];
 
 GRLIB_arsenal_items = [
@@ -384,6 +389,7 @@ GRLIB_arsenal_items = [
 "rhsusf_oakley_goggles_blk",
 "rhsusf_oakley_goggles_clr",
 "rhsusf_oakley_goggles_ylw",
+"rhs_googles_clear",
 
 //NVG
 "rhsusf_ANPVS_14",
@@ -438,6 +444,9 @@ diag_log "[COC Gaming] Loading Det 7 Arsenal",
 "rhs_weap_m4a1_blockII_wd",
 "rhs_weap_m4a1_blockII_M203_wd",
 "rhs_weap_m4a1_blockII_KAC_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_bk",
+"rhs_weap_m4a1_blockII_grip",
 "rhs_weap_mk18",
 "rhs_weap_mk18_bk",
 "rhs_weap_mk18_KAC_bk",
@@ -447,6 +456,10 @@ diag_log "[COC Gaming] Loading Det 7 Arsenal",
 "rhs_weap_mk18_KAC_wd",
 "rhs_weap_mk18_KAC",
 "rhs_weap_mk18_m320",
+"rhs_weap_mk18_grip_KAC",
+"rhs_weap_mk18_grip_KAC_bk",
+"rhs_weap_mk18_grip_kac_wd",
+"rhs_weap_mk18_grip_kac_d",
 "SMA_Mk17",
 "SMA_Mk17_Green",
 "SMA_Mk17_EGLM",
@@ -576,7 +589,8 @@ GRLIB_arsenal_magazines = [
 "hlc_100Rnd_762x51_M_M60E4",
 "hlc_100Rnd_762x51_Barrier_M60E4",
 "hlc_100Rnd_762x51_T_M60E4",
-"hlc_100Rnd_762x51_Mdim_M60E4"
+"hlc_100Rnd_762x51_Mdim_M60E4",
+"laserbatteries"
 ];
 
 GRLIB_arsenal_items = [
@@ -836,6 +850,7 @@ GRLIB_arsenal_items = [
 "rhsusf_oakley_goggles_blk",
 "rhsusf_oakley_goggles_clr",
 "rhsusf_oakley_goggles_ylw",
+"rhs_googles_clear",
 
 //NVG
 "rhsusf_ANPVS_15",
@@ -908,6 +923,9 @@ GRLIB_arsenal_weapons = [
 "rhs_weap_m4a1_blockII_wd",
 "rhs_weap_m4a1_blockII_M203_wd",
 "rhs_weap_m4a1_blockII_KAC_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_bk",
+"rhs_weap_m4a1_blockII_grip",
 "rhsusf_weap_MP7A2",
 "rhsusf_weap_MP7A2_aor1",
 "rhsusf_weap_MP7A2_desert",
@@ -953,7 +971,8 @@ GRLIB_arsenal_magazines = [
 "rhsusf_mag_40Rnd_46x30_JHP",
 "30Rnd_9x21_Mag_SMG_02",
 "30Rnd_9x21_Mag_SMG_02_Tracer_Red",
-"30Rnd_9x21_Mag_SMG_02_Tracer_Yellow"
+"30Rnd_9x21_Mag_SMG_02_Tracer_Yellow",
+"laserbatteries"
 ];
 
 GRLIB_arsenal_items = [
@@ -1227,6 +1246,7 @@ GRLIB_arsenal_items = [
 "rhsusf_oakley_goggles_blk",
 "rhsusf_oakley_goggles_clr",
 "rhsusf_oakley_goggles_ylw",
+"rhs_googles_clear",
 
 //NVG
 "rhsusf_ANPVS_14",
@@ -1297,7 +1317,11 @@ diag_log "[COC Gaming] Loading fallback/Null Object Arsenal",
 "rhs_weap_m4a1_blockII_wd",
 "rhs_weap_m4a1_blockII_M203_wd",
 "rhs_weap_m4a1_blockII_KAC_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_wd",
+"rhs_weap_m4a1_blockII_grip2_kac_bk",
+"rhs_weap_m4a1_blockII_grip",
 "rhs_weap_m16a4",
+"rhs_weap_m16a4_grip2",
 "rhs_weap_sr25",
 "rhs_weap_sr25_d",
 "rhs_weap_sr25_wd",
@@ -1393,7 +1417,8 @@ GRLIB_arsenal_magazines = [
 "rhs_m136_hedp_mag",
 "rhs_m136_hp_mag",
 "rhs_fgm148_magazine_AT",
-"rhs_fim92_mag"
+"rhs_fim92_mag",
+"laserbatteries"
 ];
 
 GRLIB_arsenal_items = [
@@ -1658,6 +1683,7 @@ GRLIB_arsenal_items = [
 "rhsusf_oakley_goggles_blk",
 "rhsusf_oakley_goggles_clr",
 "rhsusf_oakley_goggles_ylw",
+"rhs_googles_clear",
 
 //NVG
 "rhsusf_ANPVS_14",
