@@ -47,6 +47,9 @@ diag_log "[COC Gaming] Loading Public Forces Arsenal",
 "rhs_weap_m249_pip",
 "rhs_weap_m249_pip_L",
 "rhs_weap_m249_pip_S_para",
+"rhs_weap_m249_pip_S_para_vfg3",
+"rhs_weap_m249_pip_L_vfg3",
+
 "rhs_weap_M590_5RD",
 
 //Secondary Weapons
@@ -497,6 +500,8 @@ diag_log "[COC Gaming] Loading Det 7 Arsenal",
 "rhs_weap_m249_pip",
 "rhs_weap_m249_pip_L",
 "rhs_weap_m249_pip_S_para",
+"rhs_weap_m249_pip_S_para_vfg3",
+"rhs_weap_m249_pip_L_vfg3",
 "rhs_weap_M590_5RD",
 
 //Secondary Weapons
@@ -1354,6 +1359,8 @@ diag_log "[COC Gaming] Loading fallback/Null Object Arsenal",
 "rhs_weap_m249_pip",
 "rhs_weap_m249_pip_L",
 "rhs_weap_m249_pip_S_para",
+"rhs_weap_m249_pip_S_para_vfg3",
+"rhs_weap_m249_pip_L_vfg3",
 "rhs_weap_M590_5RD",
 
 //Secondary Weapons
